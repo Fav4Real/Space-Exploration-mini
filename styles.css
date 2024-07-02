@@ -1,3 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
 
 
+body {
+    margin: 0;
+    color: #8285ca;
+    text-align: center;
+    font-family: "Orbitron", sans-serif;
+}
 
+#hero-section {
+    background-image: url(./images/galaxy.webp);
+    background-size: cover;
+    padding: 10px 0 40px 0;
+}
+
+.btn {
+    padding: 6px 12px;
+    font-family: "Orbitron", sans-serif;
+    color: #8285ca;
+} 
+
+.und {
+    border-bottom: solid 5px white;
+}
+
+#main-logo {
+    width: 200px;
+}
